@@ -217,8 +217,6 @@ echo -e "${GREEN}⬢${NC} All packages installed"
 echo ""
 
 # ============================================================
-# Step 3: Configure LLM API Key
-# ============================================================
 
 echo -e "${YELLOW}⬢${NC} ${BLUE}${BOLD}Step 3: Configuring LLM provider...${NC}"
 echo ""
