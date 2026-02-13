@@ -216,9 +216,6 @@ echo ""
 echo -e "${GREEN}⬢${NC} All packages installed"
 echo ""
 
-echo -e "${YELLOW}⬢${NC} ${BLUE}${BOLD}Step 3: Configuring LLM provider...${NC}"
-echo ""
-
 # ============================================================
 # Step 3: Verify Python Imports
 # ============================================================
